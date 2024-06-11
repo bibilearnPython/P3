@@ -42,7 +42,7 @@ def remove_html_tags(text_col):
 ### décompacter les tools
 def jtools_extractor(col):
     tools = []                                      # je crée un liste pour stocker mes outils
-    for dicos in (df_job_temp["job.tools"][0]):     # je vais chercher chaque dico contenu dans le premier (et seul) item de ma liste de cette colonne
+    for dicos in (df_jobs_temp["job.tools"][0]):     # je vais chercher chaque dico contenu dans le premier (et seul) item de ma liste de cette colonne
         for key, tool in dicos.items():             # dans le duo key/value de mes items de chaque dico
             if key == "name":                       # si la clé est = à name
                 tools.append(dicos["name"])         # alors je stocke cet outil dans une liste
@@ -52,7 +52,7 @@ def jtools_extractor(col):
 ### décompacter les skills
 def jskills_extractor(col):
     skills = []                                         # je crée un liste pour stocker mes skills
-    for dictos in (df_job_temp["job.skills"][0]):       # je vais chercher chaque dico contenu dans le premier item de ma liste de cette colonne
+    for dictos in (df_jobs_temp["job.skills"][0]):       # je vais chercher chaque dico contenu dans le premier item de ma liste de cette colonne
         for key, value in dictos.items():               # dans le duo key/value de mes items de chaque dico
             if key == "name":                           # je vais chercher l'item name
                for sec_key, skill in value.items():     # cet item étant un dict. je cherche la paire k/v
@@ -63,7 +63,7 @@ def jskills_extractor(col):
 ### récupérer ce qui est obligatoire pour la candidature
 def appli_mandatory_extractor(col):
     applications = []                                           # je crée un liste pour stocker mes éléments mandatory
-    for dicts in (df_job_temp["job.application_fields"][0]):    # je vais chercher chaque dico contenu dans le premier (et seul) item de ma liste de cette colonne
+    for dicts in (df_jobs_temp["job.application_fields"][0]):    # je vais chercher chaque dico contenu dans le premier (et seul) item de ma liste de cette colonne
             for key, value in dicts.items():                    # dans le duo key/value de mes items de chaque dico
                 if value == "mandatory":                        # si une value est = à mandatory
                     applications.append(dicts["name"])          # alors je stocke chaque clé correspondante à name
