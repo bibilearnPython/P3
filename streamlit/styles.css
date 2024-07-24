@@ -1,0 +1,9 @@
+/* styles.css */
+a.custom-link {
+    color: #6A6A6A; /* Dark Slate Gray */
+    text-decoration: none; /* Optional: Remove underline */
+    font-weight: bold; /* make the text bold */
+}
+a.custom-link:hover {
+    color: #FF6F61; /* Saddle Brown on hover */
+}
