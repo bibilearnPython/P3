@@ -1,0 +1,279 @@
+Compétence,Nombre d'occurrences
+Sql,168
+Python,131
+Tableau,109
+Power bi,82
+Aws,55
+Azure,53
+Collaboration et travail d'équipe,46
+Compétences en communication,39
+Dbt,31
+Excel,31
+Visualisation des données,30
+Gestion de bases de données,27
+Snowflake,27
+Talend,25
+Git,23
+Gestion de projets,22
+Scala,21
+Méthodologies Agile,21
+Aptitude à résoudre les problèmes,20
+Looker,19
+Oracle,19
+Recherche et analyse de données,19
+Dataiku,18
+Sap,17
+Pandas,16
+Compétences en mécanique,16
+Bigquery,15
+Coaching et mentorat,15
+Sas,14
+Java,14
+Travail d'équipe,13
+Pyspark,13
+Postgresql,12
+Collecte et analyse de données,12
+Google analytics,12
+Jupyter,11
+Metabase,11
+Langages de programmation,11
+Alteryx,11
+Docker,10
+Segment,10
+Nosql,10
+Github,10
+Numpy,10
+Créativité et innovation,10
+Google cloud platform,10
+Qlikview,10
+Gitlab,10
+Relations avec les salariés,9
+Mongodb,9
+Analyse des données,9
+Qliksense,9
+Informatica,9
+Kubernetes,9
+Rédaction technique,8
+Outils d'automatisation,8
+Pensée analytique,8
+Adaptabilité,8
+Airbyte,8
+Powerpoint,7
+Amplitude,7
+Hadoop,7
+Adobe analytics,7
+Contrôle qualité,7
+Kong,6
+Javascript,6
+Kafka,6
+Gestion des données,6
+Culture technologique,6
+Analyse statistique,6
+Aptitude à animer des présentations,6
+Sagemaker,6
+Shiny,6
+Business object,6
+Communication écrite et verbale,5
+Confluence,5
+Réglementation environnementale,5
+Formation et perfectionnement,5
+Flask,5
+Superset,5
+Angular,5
+Souci du détail,5
+Google data studio,5
+Planification de projets,5
+Recherche et analyse,5
+Gestion de l’infrastructure cloud,5
+Responsabilité sociale des entreprises,5
+Datadog,4
+Google bigquery,4
+Tensorflow,4
+Conformité réglementaire,4
+Harbor,4
+Camel,4
+Modélisation financière,4
+Jira,4
+Plotly,4
+Mixpanel,4
+Planification stratégique,4
+Gestion des ressources humaines,4
+Conception d'interfaces utilisateur,4
+Knime,4
+IA et machine-learning,4
+Gestion des entretiens,4
+Analyse concurrentielle,4
+Efficacité opérationnelle,4
+Openshift,4
+Presto,3
+Fivetran,3
+Bash,3
+Hubspot,3
+Grafana,3
+Outils d'automatisation du marketing,3
+Google tag manager,3
+Aptitudes à motiver les autres,3
+Optimisation pour les moteurs de recherche,3
+Sens des affaires,3
+SQL,3
+Pycharm,3
+Grpc,3
+Elasticsearch,3
+Connaissance des protocoles de sécurité,3
+Développement de produits,3
+Xml,3
+Gestion de la qualité,3
+Pytorch,3
+Jenkins,3
+Foundation,3
+Exchange,3
+ net,3
+Microstrategy,3
+Amélioration continue,3
+Rédaction académique,3
+Mysql,3
+Gestion des changements,3
+Aptitudes techniques,3
+Analyse des performances,3
+Tests A/B,2
+Suivi des performances,2
+Networking,2
+Compréhension des marchés financiers,2
+Scipy,2
+Vertica,2
+Estimation des coûts,2
+Planification et organisation,2
+Asana,2
+Slite,2
+Sens de l’observation,2
+Anaplan,2
+Uipath,2
+Analyse financière,2
+Ansible,2
+Dynamodb,2
+Intégration de technologies,2
+Slack,2
+Gestion des parties prenantes,2
+Principes de durabilité,2
+Connaissances en logistique,2
+Gestion du cycle de vie des produits,2
+Confidentialité des données,2
+Gestion des performances,2
+Analyse de marché,2
+Santé et bien-être des animaux,2
+Teradata,2
+Kibana,2
+Stitch,2
+Google cloud storage,2
+Typescript,2
+Elk,2
+Gestion de la conformité,2
+Recherche utilisateurs,2
+Terraform,2
+Gouvernance d'entreprise,2
+Gestion des systèmes d'information,2
+Teamwork,2
+Matomo,2
+Assurance qualité,2
+Entreposage de données,2
+Systèmes d'information géographique,2
+Enseignement et mentorat,1
+CRM,1
+Attitude positive,1
+Stripe,1
+Cassandra,1
+Centos,1
+Ubuntu,1
+Redhat,1
+Sécurité informatique,1
+Apprentissage machine,1
+Écriture de scénarios,1
+Notions en mathématiques,1
+Zoom,1
+Redash,1
+Intégration continu,1
+Tick,1
+Supervisor,1
+Engagement des parties prenantes,1
+Interprétation des recettes,1
+Programmation informatique,1
+Recherche,1
+Analyse des parties prenantes,1
+Création de contenu et marketing,1
+Compétences en négociation,1
+Maven,1
+Circleci,1
+Microsoft power platform,1
+Saisie de données,1
+Analytics,1
+Prometheus,1
+Gestion de la documentation,1
+Création de modèles,1
+Luigi,1
+Dagster,1
+Intercom,1
+Hotjar,1
+f ,1
+Formation en ligne,1
+Planification de voyages,1
+Stratégies d'engagement des salariés,1
+Premiers secours et sécurité,1
+Sendinblue,1
+Scaleway,1
+Définition des objectifs,1
+Conseil,1
+Trello,1
+Entretien des équipements,1
+Marketing numérique,1
+Pensée créative,1
+Opérations d'entretien ménager,1
+Openai,1
+Connaissance de l'industrie automobile,1
+Gestion financière,1
+Leadership,1
+Monday,1
+Utilisation d'outils de diagnostic,1
+Marketing et promotion,1
+HRM,1
+Camunda,1
+Power automate,1
+Stratégie marketing,1
+Pratique éthique,1
+Planification d’entreprise,1
+Ms sql server ,1
+Buddy,1
+Google sheets,1
+Développement de relations,1
+Recherche juridique,1
+Gestion de portefeuilles,1
+Neo4j,1
+Direction d'une équipe interfonctionnelle,1
+Linux,1
+Principes DevOps,1
+Splunk,1
+Php,1
+Qgis,1
+Firebase,1
+Connaissance des pratiques agricoles,1
+Node js,1
+Confidentialité,1
+Référencement,1
+Pig,1
+Méthodes de formation,1
+Hbase,1
+Hortonworks,1
+Zendesk,1
+Gestion de la logistique,1
+Gestion des fournisseurs,1
+Serverless,1
+Nifi,1
+Apache spark,1
+Surveillance des opérations,1
+Json,1
+Aircall,1
+React ,1
+Cypress,1
+Ngrx,1
+Jest,1
+Google ads,1
+Google suite,1
